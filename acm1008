@@ -1,0 +1,3 @@
+val = input()
+a, b = val.split()
+print(int(a) / int(b))
